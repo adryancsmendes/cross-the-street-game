@@ -1,4 +1,4 @@
-# cross-the-street-game
+# Cross the Street Game
 
 Este é um jogo que desenvolvi enquanto estudava na plataforma Alura. Aqui utilizei conhecimentos de JavaScript, HTML e CSS em seu desenvolvimento.
 
